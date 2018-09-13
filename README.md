@@ -13,7 +13,7 @@ This open source repo/s uses HyperTrack SDK for developing real world Uber-like 
       - Track driver to customer's pickup location
       - Track the ongoing ride to dropoff location
       - Let customers share live trip with friends and family
-      - Show trip summary with distance travelled
+      - Show trip summary with distance travelleds
 
 <p align="center">
  <a href="https://www.youtube.com/watch?v=1qMFP5w32GY">
